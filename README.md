@@ -13,6 +13,11 @@ Encrypted pointblank game server files by MoMzGames
   - Leaked by OPENLEAK HACKERS
   - Reverse Engineer by Un4ckn0wl3z (OPL Crew)
 
+# CRACKED Infomation !
+
+   - NO need internet connection for start server.
+   - NO need Game password protection.
+   - UNLIMITED license.
 
 # Encryption Infomation !
 
