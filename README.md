@@ -17,3 +17,15 @@ Encrypted pointblank game server files by MoMzGames
 # Encryption Infomation !
 
   - Using GPG with RSA 4069 bit strength, CRACK ME IF YOU CAN
+
+
+# Crew !
+
+  - Un4
+  - G0Dpeace
+  - rudekitz
+  - ioboy
+  - hizenburg3
+  - frid4hx
+  - ggsec
+  - netjurk
