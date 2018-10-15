@@ -9,7 +9,7 @@ Encrypted pointblank game server files by MoMzGames
   - Full UDP3 protocol version 3
   - PVP 8x8, PVE 4x8 + MADNESS MODE
   - BOMB MODE Working well
-  - Developed by MoMzGame
+  - Developed by MoMzGames
   - Leaked by OPENLEAK HACKERS
   - Reverse Engineer by Un4ckn0wl3z (OPL Crew)
 
