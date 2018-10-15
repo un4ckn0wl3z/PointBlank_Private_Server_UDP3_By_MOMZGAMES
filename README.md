@@ -14,3 +14,8 @@ Encrypted pointblank game server files by MoMzGames
   - Developed by MoMzGame
   - Leaked by OPENLEAK HACKERS
   - Reverse Engineer by Un4ckn0wl3z (OPL Crew)
+
+
+# Encryption Infomation !
+
+  - Using GPG with RSA 4069 bit strength, CRACK ME IF YOU CAN
